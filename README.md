@@ -9,4 +9,4 @@ Requairements:
 
 # Sample screenshot
 
-![SampleScreenshot](/assets/Screenshot 2022-06-02 185139.png)
+![SampleScreenshot](https://github.com/MoXxMgK/PlatformerBase/blob/main/assets/Screenshot%202022-06-02%20185139.png "sample")
