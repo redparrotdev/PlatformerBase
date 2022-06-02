@@ -6,3 +6,7 @@ Requairements:
 * pygame
 * beautifulsoup4
 * lxml
+
+# Sample screenshot
+
+![SampleScreenshot](/assets/Screenshot 2022-06-02 185139.png)
